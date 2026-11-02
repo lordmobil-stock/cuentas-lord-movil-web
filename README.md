@@ -1,2 +1,2 @@
 # cuentas-lord-movil-web
-Sitio estatico de catalogo de equipos - Cuentas Lord Móvil
+Sitio estatico de catalogo de equipos - Cuentas Lord mobil
