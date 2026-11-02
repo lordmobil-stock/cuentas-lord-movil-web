@@ -1,2 +1,1 @@
 config|PENDIENTE|Equipos en existencia hoy|https://t.me/+3tweQrAxxfRjNmY5
-equipos/2025-11-01-42.jpg|iPhone 13 128GB|Apple|$12,000|$2,500 x 12|01 nov 2025|Excelente estado, con caja|https://t.me/cuentas_stock/42|42
