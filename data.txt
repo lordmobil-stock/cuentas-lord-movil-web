@@ -1,4 +1,4 @@
-config|44391713286|Equipos en existencia hoy|https://t.me/+3tweQrAxxfRjNmY5
+config|Equipos en existencia hoy|https://t.me/+3tweQrAxxfRjNmY5
 ||||||||
 equipos/2026-11-02-35.jpg|Equipo disponible||||02 nov 2026||https://t.me/c/4391713286/35|35
 |Equipo disponible||||02 nov 2026||https://t.me/c/4391713286/34|34
