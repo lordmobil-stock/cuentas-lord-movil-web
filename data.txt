@@ -1,1 +1,2 @@
 config|PENDIENTE|Equipos en existencia hoy|https://t.me/+3tweQrAxxfRjNmY5
+|Equipo disponible||||02 nov 2026||https://t.me/c/4391713286/34|34
